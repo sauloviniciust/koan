@@ -32,7 +32,6 @@ const Menu = () => {
    </div>
    <div className="hidden w-full md:block md:w-auto">
        <ul className="flex space-x-8">
-           <li><a className="text-2xl  hover:text-lime-500 " href=".#">Home</a></li>
            <li><a className="text-2xl  hover:text-lime-500 " href="#caminhada">Historia</a></li>
            <li><a className="text-2xl  hover:text-lime-500 " href=".#conheça">Conheça</a></li>
            <li><a className="text-2xl  hover:text-lime-500 " href="#contato">Contato</a></li>
@@ -42,7 +41,7 @@ const Menu = () => {
 </div>
 <div className="flex justify-center md:hidden ">
    <a href="#">
-       <img className="mb-6 hover:animate-pulse " src="KOAN LOGO1.png"
+       <img className="mb-6n w-48 hover:animate-pulse " src="KOAN LOGO1.png"
            alt="koan Logo"  /></a>
 </div>
 </div>

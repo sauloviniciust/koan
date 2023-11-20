@@ -2,8 +2,8 @@ import { useState, useEffect, SetStateAction } from "react";
 import { BsChevronCompactLeft, BsChevronCompactRight } from "react-icons/bs";
 import { RxDotFilled } from "react-icons/rx";
 
-function Carousel() {
-  const slides = ["livelunar.jpg","koanmountain.jpg","saceback.png",""];
+function MobileCarrousel() {
+  const slides = ["livelunar.jpg","img10.jpg","saceback.png","IMG_2295.JPG", "img123.jpg"];
 
   const [currentIndex, setCurrentIndex] = useState(0);
 
@@ -62,4 +62,4 @@ function Carousel() {
   );
 }
 
-export { Carousel };
+export { MobileCarrousel };
