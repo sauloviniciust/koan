@@ -59,7 +59,7 @@ const Card = () => {
 						<p className="sm:text-base lg:text-lg xl:text-xl text-white  font-medium mb-8 mx-5">
 							Spacechronix é o projeto paralelo de Saulo Vinicius, com influencias de Twilight/forest.
 						</p>
-						<a href="spacechronix.vercel.app" target="_blank"><button className="border-2 font-medium rounded-3xl border-lime-600 sm:text-base lg:text-lg xl:text-xl text-lime-600  w-28 h-12 mb-6 
+						<a href="https://spacechronix.vercel.app/" target="_blank"><button className="border-2 font-medium rounded-3xl border-lime-600 sm:text-base lg:text-lg xl:text-xl text-lime-600  w-28 h-12 mb-6 
 								transition ease-in-out delay-150 hover:text-black hover:bg-lime-600">Conheça</button></a>
 					</div>
 				</article>

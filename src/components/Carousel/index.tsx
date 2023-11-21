@@ -3,7 +3,7 @@ import { BsChevronCompactLeft, BsChevronCompactRight } from "react-icons/bs";
 import { RxDotFilled } from "react-icons/rx";
 
 function Carousel() {
-  const slides = ["livelunar.jpg","koanmountain.jpg","saceback.png",""];
+  const slides = ["livelunar.jpg","koanmountain.jpg","saceback.png","IMG_2295.JPG"];
 
   const [currentIndex, setCurrentIndex] = useState(0);
 
